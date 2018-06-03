@@ -1,4 +1,4 @@
-# Autonomous Driving Lidar Point clound processing 
+# Lidar Point clound processing for Autonomous Driving
 A list of references on lidar point cloud processing for autonomous driving
 
 ## Clustering/Segmentation (ground extraction, plane extraction)
