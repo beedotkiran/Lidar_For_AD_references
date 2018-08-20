@@ -23,6 +23,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * A Fast and Accurate Plane Detection Algorithm for Large Noisy Point Clouds Using Filtered Normals and Voxel Growing [[pdf](https://hal-mines-paristech.archives-ouvertes.fr/hal-01097361/document)]
 
 ## Object detection and Tracking
+* Learning a Real-Time 3D Point Cloud Obstacle Discriminator via Bootstrapping [pdf](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.385.6290)
 * Terrain-Adaptive Obstacle Detection [[pdf](https://pdfs.semanticscholar.org/92f6/26e75f940a49ee80eaf0344dc493f5d8b2ee.pdf)]
 * 3D Object Detection from Roadside Data Using Laser Scanners [[pdf](http://www-video.eecs.berkeley.edu/papers/JYT/spie-paper.pdf)]
 * 3D Multiobject Tracking for Autonomous Driving : Masters thesis A S Abdul Rahman
