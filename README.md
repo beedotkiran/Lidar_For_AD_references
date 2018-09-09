@@ -49,3 +49,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Tutorial on Gazebo to simulate raycasting from Velodyne lidar [[link](http://gazebosim.org/tutorials?tut=guided_i1)]
 * Udacity Driving Dataset [[link](https://github.com/udacity/self-driving-car/tree/master/datasets)]
 * Virtual KITTI [[link](http://www.europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds)]
+
+## End-To-End Learning
+* LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf)
+* Monocular Fisheye Camera Depth Estimation Using Semi-supervised Sparse Velodyne Data [pdf](https://arxiv.org/pdf/1803.06192.pdf)
