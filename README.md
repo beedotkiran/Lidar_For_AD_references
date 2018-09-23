@@ -9,8 +9,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * A Fast Ground Segmentation Method for 3D Point Cloud [[pdf](jips-k.org/file/down?pn=463)]
 * Ground Estimation and Point Cloud Segmentation using SpatioTemporal Conditional Random Field [[pdf](https://hal.inria.fr/hal-01579095/document)]
 * Real-Time Road Segmentation Using LiDAR Data Processing on an FPGA [[pdf](https://arxiv.org/pdf/1711.02757.pdf)]
-* Efficient Online Segmentation for Sparse 3D Laser Scans [[pdf](Efficient Online Segmentation for Sparse 3D Laser
-Scans)], [[git](https://github.com/PRBonn/depth_clustering)]
+* Efficient Online Segmentation for Sparse 3D Laser Scans [[pdf](http://www.ipb.uni-bonn.de/pdfs/bogoslavskyi16pfg.pdf)], [[git](https://github.com/PRBonn/depth_clustering)]
 
 ## Registration and Localization
 * Point Clouds Registration with Probabilistic Data Association [[git](https://github.com/ethz-asl/robust_point_cloud_registration)]
