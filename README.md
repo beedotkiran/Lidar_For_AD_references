@@ -36,6 +36,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud [pdf](https://arxiv.org/pdf/1710.07368.pdf)
 * Improving LiDAR Point Cloud Classification using Intensities and Multiple Echoes [[pdf](https://hal.archives-ouvertes.fr/hal-01182604/document)]
 * DepthCN: Vehicle Detection Using 3D-LIDAR and ConvNet [[pdf](http://home.isr.uc.pt/~cpremebida/files_cp/DepthCN_preprint.pdf)]
+* 3D Object Localisation with Convolutional Neural Networks [[Thesis](https://github.com/oscarmcnulty/gta-3d-dataset/blob/master/3D-object-localisation-with-cnns.pdf)]
 
 ## Map representations and Grids (HD Maps/ Occupancy grids/others)
 * LIDAR-Data Accumulation Strategy To Generate High Definition Maps For Autonomous Vehicles [[link](https://ieeexplore.ieee.org/document/8170357/)]
