@@ -54,6 +54,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Dynamic Occupancy Grid Prediction for Urban Autonomous Driving: A Deep Learning Approach with Fully Automatic Labeling [[pdf](https://arxiv.org/pdf/1705.08781.pdf)]
  * Fast 3-D Urban Object Detection on Streaming Point Clouds [[pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/workshops/w15/Paper%202.pdf)]
 * Mobile Laser Scanned Point-Clouds for Road Object Detection and Extraction: A Review [[pdf](https://www.mdpi.com/2072-4292/10/10/1531)]
+* HDNET: Exploiting HD Maps for 3D Object Detection [pdf](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)
 
 ## Lidar Datasets and Simulators
 * Udacity based simulator [link](http://wangyangevan.weebly.com/lidar-simulation.html), [git](https://github.com/EvanWY/USelfDrivingSimulator)
