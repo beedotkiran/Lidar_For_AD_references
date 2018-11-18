@@ -57,6 +57,11 @@ A list of references on lidar point cloud processing for autonomous driving
 * HDNET: Exploiting HD Maps for 3D Object Detection [pdf](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)
 
 ## Lidar Datasets and Simulators
+* nuScenes : public large-scale dataset for autonomous driving [dataset](https://www.nuscenes.org/overview)
+* Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)
+* A LiDAR Point Cloud Generator: from a Virtual World to Autonomous Driving [pdf](https://arxiv.org/pdf/1804.00103.pdf)
+* Ford Campus Vision and Lidar Data Set [pdf](http://robots.engin.umich.edu/uploads/SoftwareData/Ford/ijrr2011.pdf) [dataset](http://robots.engin.umich.edu/SoftwareData/Ford)
+* Oxford RobotCar dataset [dataset](https://robotcar-dataset.robots.ox.ac.uk/) 1 Year, 1000km: The Oxford RobotCar Dataset [pdf](https://robotcar-dataset.robots.ox.ac.uk/images/robotcar_ijrr.pdf)
 * Udacity based simulator [link](http://wangyangevan.weebly.com/lidar-simulation.html), [git](https://github.com/EvanWY/USelfDrivingSimulator)
 * Tutorial on Gazebo to simulate raycasting from Velodyne lidar [[link](http://gazebosim.org/tutorials?tut=guided_i1)]
 * Udacity Driving Dataset [[link](https://github.com/udacity/self-driving-car/tree/master/datasets)]
