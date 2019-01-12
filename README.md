@@ -16,7 +16,8 @@ A list of references on lidar point cloud processing for autonomous driving
 * Point Clouds Registration with Probabilistic Data Association [[git](https://github.com/ethz-asl/robust_point_cloud_registration)]
 * Robust LIDAR Localization using Multiresolution Gaussian Mixture Maps for Autonomous Driving [[pdf](https://pdfs.semanticscholar.org/7292/1fc6b181cf75790664e482963d982ec9ac48.pdf)]
 * Automatic Merging of Lidar Point-Clouds Using Data from Low-Cost GPS/IMU Systems [[pdf](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1081&context=ece_facpub)]
-
+* 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration [[pdf](https://arxiv.org/abs/1807.09413)]
+* The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879)]
 
 ## Feature Extraction
 * Fast Feature Detection and Stochastic Parameter Estimation of Road Shape using Multiple LIDAR [[pdf](https://www.ri.cmu.edu/pub_files/2008/9/peterson_kevin_2008_1.pdf)]
