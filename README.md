@@ -38,7 +38,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [pdf](https://arxiv.org/abs/1809.05590)
 
 ## Classification/Supervised Learning
-* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)
+* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
 * SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud [pdf](https://arxiv.org/pdf/1710.07368.pdf)
 * Improving LiDAR Point Cloud Classification using Intensities and Multiple Echoes [[pdf](https://hal.archives-ouvertes.fr/hal-01182604/document)]
 * DepthCN: Vehicle Detection Using 3D-LIDAR and ConvNet [[pdf](http://home.isr.uc.pt/~cpremebida/files_cp/DepthCN_preprint.pdf)]
@@ -55,11 +55,11 @@ A list of references on lidar point cloud processing for autonomous driving
 * Dynamic Occupancy Grid Prediction for Urban Autonomous Driving: A Deep Learning Approach with Fully Automatic Labeling [[pdf](https://arxiv.org/pdf/1705.08781.pdf)]
  * Fast 3-D Urban Object Detection on Streaming Point Clouds [[pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/workshops/w15/Paper%202.pdf)]
 * Mobile Laser Scanned Point-Clouds for Road Object Detection and Extraction: A Review [[pdf](https://www.mdpi.com/2072-4292/10/10/1531)]
-* HDNET: Exploiting HD Maps for 3D Object Detection [pdf](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)
+* HDNET: Exploiting HD Maps for 3D Object Detection [[pdf](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)]
 
 ## Lidar Datasets and Simulators
-* nuScenes : public large-scale dataset for autonomous driving [dataset](https://www.nuscenes.org/overview)
-* Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)
+* nuScenes : public large-scale dataset for autonomous driving [[dataset](https://www.nuscenes.org/overview)]
+* Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)]
 * A LiDAR Point Cloud Generator: from a Virtual World to Autonomous Driving [pdf](https://arxiv.org/pdf/1804.00103.pdf)
 * Ford Campus Vision and Lidar Data Set [pdf](http://robots.engin.umich.edu/uploads/SoftwareData/Ford/ijrr2011.pdf) [dataset](http://robots.engin.umich.edu/SoftwareData/Ford)
 * Oxford RobotCar dataset [dataset](https://robotcar-dataset.robots.ox.ac.uk/) 1 Year, 1000km: The Oxford RobotCar Dataset [pdf](https://robotcar-dataset.robots.ox.ac.uk/images/robotcar_ijrr.pdf)
@@ -69,7 +69,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Virtual KITTI [[link](http://www.europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds)]
 
 ## End-To-End Learning
-* LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf)
-* Monocular Fisheye Camera Depth Estimation Using Semi-supervised Sparse Velodyne Data [pdf](https://arxiv.org/pdf/1803.06192.pdf)
+* LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf)]
+* Monocular Fisheye Camera Depth Estimation Using Semi-supervised Sparse Velodyne Data [[pdf](https://arxiv.org/pdf/1803.06192.pdf)]
 * Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)]
 
