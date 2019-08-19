@@ -7,7 +7,6 @@ A list of references on lidar point cloud processing for autonomous driving
 * Fast segmentation of 3D point clouds for ground vehicles [[ieee](https://ieeexplore.ieee.org/document/5548059)]
 * An Improved RANSAC for 3D Point Cloud Plane Segmentation Based on Normal Distribution Transformation Cells
 * Segmentation of Dynamic Objects from Laser Data [[pdf](https://upcommons.upc.edu/bitstream/handle/2117/14119/1259-Segmentation-of-Dynamic-Objects-from-Laser-Data.pdf?sequence=1&isAllowed=y)]
-* Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
 * A Fast Ground Segmentation Method for 3D Point Cloud [[pdf](http://jips-k.org/file/down?pn=463)]
 * Ground Estimation and Point Cloud Segmentation using SpatioTemporal Conditional Random Field [[pdf](https://hal.inria.fr/hal-01579095/document)]
 * Real-Time Road Segmentation Using LiDAR Data Processing on an FPGA [[pdf](https://arxiv.org/pdf/1711.02757.pdf)]
@@ -17,13 +16,20 @@ A list of references on lidar point cloud processing for autonomous driving
 * Fast Multi-pass 3D Point Segmentation Based on a Structured Mesh Graph for Ground Vehicles [pdf](https://ieeexplore.ieee.org/abstract/document/8500552) [video](https://www.youtube.com/watch?v=cwmcuRnWJfE)
 * Circular Convolutional Neural Networks for Panoramic Images and Laser Data [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/schubert19_IV.pdf)
 
+## Pointcloud Density 
+* DBSCAN algorithm : [wiki](https://en.wikipedia.org/wiki/DBSCAN), A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [pdf[(https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.121.9220)
+* Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
+* STD: Sparse-to-Dense 3D Object Detector for Point Cloud [pdf](https://arxiv.org/abs/1907.10471)
+* Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
+* The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879)]
+
 ## Registration and Localization
 * Point Clouds Registration with Probabilistic Data Association [[git](https://github.com/ethz-asl/robust_point_cloud_registration)]
 * Robust LIDAR Localization using Multiresolution Gaussian Mixture Maps for Autonomous Driving [[pdf](https://pdfs.semanticscholar.org/7292/1fc6b181cf75790664e482963d982ec9ac48.pdf)], [[Thesis](https://pdfs.semanticscholar.org/a7ce/36bbdf85f1dba6cf16f47ad3799618511960.pdf)]
 * Automatic Merging of Lidar Point-Clouds Using Data from Low-Cost GPS/IMU Systems [[pdf](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1081&context=ece_facpub)]
 * 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration [[pdf](https://arxiv.org/abs/1807.09413)]
-* The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879)]
 * Incremental Segment-Based Localization in 3D Point Clouds [[pdf](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
+
 ## Feature Extraction
 * Fast Feature Detection and Stochastic Parameter Estimation of Road Shape using Multiple LIDAR [[pdf](https://www.ri.cmu.edu/pub_files/2008/9/peterson_kevin_2008_1.pdf)]
 * Finding Planes in LiDAR Point Clouds for Real-Time Registration [[pdf](http://ilab.usc.edu/publications/doc/Grant_etal13iros.pdf)]
