@@ -18,7 +18,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Python bindings for Point Cloud Library [[git](https://github.com/strawlab/python-pcl)] 
 
 ## Pointcloud Density 
-* DBSCAN algorithm : [wiki](https://en.wikipedia.org/wiki/DBSCAN), A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [pdf[(https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.121.9220)
+* DBSCAN algorithm : [wiki](https://en.wikipedia.org/wiki/DBSCAN), A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [pdf[(https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
 * STD: Sparse-to-Dense 3D Object Detector for Point Cloud [pdf](https://arxiv.org/abs/1907.10471)
 * Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
@@ -90,13 +90,13 @@ A list of references on lidar point cloud processing for autonomous driving
 * A LiDAR Point Cloud Generator: from a Virtual World to Autonomous Driving [pdf](https://arxiv.org/pdf/1804.00103.pdf)
 * Ford Campus Vision and Lidar Data Set [pdf](http://robots.engin.umich.edu/uploads/SoftwareData/Ford/ijrr2011.pdf) [dataset](http://robots.engin.umich.edu/SoftwareData/Ford)
 * Oxford RobotCar dataset [dataset](https://robotcar-dataset.robots.ox.ac.uk/) 1 Year, 1000km: The Oxford RobotCar Dataset [pdf](https://robotcar-dataset.robots.ox.ac.uk/images/robotcar_ijrr.pdf)
-* Udacity based simulator [link](http://wangyangevan.weebly.com/lidar-simulation.html), [git](https://github.com/EvanWY/USelfDrivingSimulator)
+* Udacity based simulator [[link](http://wangyangevan.weebly.com/lidar-simulation.html), [git](https://github.com/EvanWY/USelfDrivingSimulator)]
 * Tutorial on Gazebo to simulate raycasting from Velodyne lidar [[link](http://gazebosim.org/tutorials?tut=guided_i1)]
 * Udacity Driving Dataset [[link](https://github.com/udacity/self-driving-car/tree/master/datasets)]
 * Virtual KITTI [[link](http://www.europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds)]
 * LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf)]
 * KAIST Complex Urban Data Set Dataset [[dataset](http://irap.kaist.ac.kr/dataset/download_1.html)]
-
+* Semantic KITTI [[dataset](http://semantic-kitti.org/)]
 
 ## Movement and flow estimation in Pointclouds
 * Deep Lidar CNN to Understand the Dynamics of Moving Vehicles [pdf](http://www.iri.upc.edu/files/scidoc/2018-Deep-Lidar-CNN-to-Understand-the-Dynamics-of-Moving-Vehicles.pdf)
