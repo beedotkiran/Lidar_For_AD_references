@@ -30,6 +30,10 @@ A list of references on lidar point cloud processing for autonomous driving
 * Automatic Merging of Lidar Point-Clouds Using Data from Low-Cost GPS/IMU Systems [[pdf](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1081&context=ece_facpub)]
 * 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration [[pdf](https://arxiv.org/abs/1807.09413)]
 * Incremental Segment-Based Localization in 3D Point Clouds [[pdf](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
+* Scan Registration for Autonomous Mining VehiclesUsing 3D-NDT [[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.20204)]
+* Fast Point Feature Histograms (FPFH) for 3D Registration [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5152473)]
+* Fast LIDAR Localization using Multiresolution Gaussian Mixture Maps [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7139582)]
+* A Review of Point Cloud RegistrationAlgorithms for Mobile Robotics [[pdf](https://hal.archives-ouvertes.fr/hal-01178661/document)]
 
 ## Feature Extraction
 * Fast Feature Detection and Stochastic Parameter Estimation of Road Shape using Multiple LIDAR [[pdf](https://www.ri.cmu.edu/pub_files/2008/9/peterson_kevin_2008_1.pdf)]
