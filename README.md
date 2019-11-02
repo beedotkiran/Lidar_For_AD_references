@@ -22,7 +22,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
 * STD: Sparse-to-Dense 3D Object Detector for Point Cloud [pdf](https://arxiv.org/abs/1907.10471)
 * Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
-* The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879)]
+* The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879), [code](https://github.com/zgojcic/3DSmoothNet)]
 
 ## Registration and Localization
 * Point Clouds Registration with Probabilistic Data Association [[git](https://github.com/ethz-asl/robust_point_cloud_registration)]
@@ -86,9 +86,8 @@ A list of references on lidar point cloud processing for autonomous driving
 
 ## Lidar Datasets and Simulators
 * nuScenes : public large-scale dataset for autonomous driving [[dataset](https://www.nuscenes.org/overview)]
-* Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)]
-* A LiDAR Point Cloud Generator: from a Virtual World to Autonomous Driving [pdf](https://arxiv.org/pdf/1804.00103.pdf)
-* Ford Campus Vision and Lidar Data Set [pdf](http://robots.engin.umich.edu/uploads/SoftwareData/Ford/ijrr2011.pdf) [dataset](http://robots.engin.umich.edu/SoftwareData/Ford)
+* A LiDAR Point Cloud Generator: from a Virtual World to Autonomous Driving [[pdf](https://arxiv.org/pdf/1804.00103.pdf)]
+* Ford Campus Vision and Lidar Data Set [[pdf](http://robots.engin.umich.edu/uploads/SoftwareData/Ford/ijrr2011.pdf), [dataset](http://robots.engin.umich.edu/SoftwareData/Ford)]
 * Oxford RobotCar dataset [dataset](https://robotcar-dataset.robots.ox.ac.uk/) 1 Year, 1000km: The Oxford RobotCar Dataset [pdf](https://robotcar-dataset.robots.ox.ac.uk/images/robotcar_ijrr.pdf)
 * Udacity based simulator [[link](http://wangyangevan.weebly.com/lidar-simulation.html), [git](https://github.com/EvanWY/USelfDrivingSimulator)]
 * Tutorial on Gazebo to simulate raycasting from Velodyne lidar [[link](http://gazebosim.org/tutorials?tut=guided_i1)]
@@ -97,9 +96,30 @@ A list of references on lidar point cloud processing for autonomous driving
 * LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf)]
 * KAIST Complex Urban Data Set Dataset [[dataset](http://irap.kaist.ac.kr/dataset/download_1.html)]
 * Semantic KITTI [[dataset](http://semantic-kitti.org/)]
+* A*3D: An Autonomous Driving Dataset in Challeging Environments [[dataset](https://github.com/I2RDL2/ASTAR-3D)], [[video](https://www.youtube.com/watch?v=QtK0VIywrmM&feature=youtu.be)]
 
-## Movement and flow estimation in Pointclouds
-* Deep Lidar CNN to Understand the Dynamics of Moving Vehicles [pdf](http://www.iri.upc.edu/files/scidoc/2018-Deep-Lidar-CNN-to-Understand-the-Dynamics-of-Moving-Vehicles.pdf)
-* Learning motion field of LiDAR point cloud with convolutional networks [link](https://www.sciencedirect.com/science/article/abs/pii/S016786551930176X)
-* Hallucinating Dense Optical Flow from Sparse Lidar for Autonomous Vehicles [pdf](https://arxiv.org/pdf/1808.10542.pdf) [video](https://www.youtube.com/watch?v=94vQUwCZLxQ)
+## Spatio-Temporal, Movement, Flow estimation in Pointclouds
+* Rigid Scene Flow for 3D LiDAR Scans IROS 2016 [[pdf](https://europa2.informatik.uni-freiburg.de/files/dewan-16iros.pdf)]
+* Deep Lidar CNN to Understand the Dynamics of Moving Vehicles [[pdf](http://www.iri.upc.edu/files/scidoc/2018-Deep-Lidar-CNN-to-Understand-the-Dynamics-of-Moving-Vehicles.pdf)]
+* Learning motion field of LiDAR point cloud with convolutional networks [[link](https://www.sciencedirect.com/science/article/abs/pii/S016786551930176X)]
+* Hallucinating Dense Optical Flow from Sparse Lidar for Autonomous Vehicles [[pdf](https://arxiv.org/pdf/1808.10542.pdf) [video](https://www.youtube.com/watch?v=94vQUwCZLxQ)]
+* FlowNet3D: Learning Scene Flow in 3D Point Clouds CVPR 2019 [[pdf](https://zpascal.net/cvpr2019/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf), [code](https://github.com/xingyul/flownet3d)]
+* LiDAR-Flow: Dense Scene Flow Estimation from Sparse LiDAR and Stereo Images [[pdf](https://arxiv.org/abs/1910.14453v1)]
+* 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks CVPR 2019 [[pdf](https://zpascal.net/cvpr2019/Choy_4D_Spatio-Temporal_ConvNets_Minkowski_Convolutional_Neural_Networks_CVPR_2019_paper.pdf), [code](https://github.com/StanfordVL/MinkowskiEngine)]
+* MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences, ICCV 2019 [[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf)]
 
+## Advanced Topics/Other applications
+* PU-GAN: a Point Cloud Upsampling Adversarial Network ICCV 2019 [[pdf](https://arxiv.org/abs/1907.10844), [code](https://github.com/liruihui/PU-GAN)]
+* Neural Architecture Search for Object Detection in Point Cloud [[blog](https://medium.com/seoul-robotics/neural-architecture-search-for-object-detection-in-point-cloud-f2d57a5953d5)], [[AutoDeepLabNAS paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf)]
+* Self-Supervised Deep Learning on Point Clouds by Reconstructing Space NeurIPS 2019 [[pdf](https://arxiv.org/abs/1901.08396)]
+
+### Large-scale pointcloud Algorithms (vs scan based)
+* Datasets : 
+    * Semantic 3D [dataset](http://www.semantic3d.net/) 
+    * * Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)]
+* Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs CVPR2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Landrieu_Large-Scale_Point_Cloud_CVPR_2018_paper.pdf)]
+* PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space NeurIPS 2017 [[pdf](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf), [code](https://github.com/charlesq34/pointnet2)], [semantic seg code](https://github.com/mathieuorhan/pointnet2_semantic)
+* ConvPoint: continuous convolutions for cloud processing Eurographics 3DOR, 2019 [pdf](https://arxiv.org/abs/1904.02375), [code](https://github.com/aboulch/ConvPoint)
+* Classification of Point Cloud for Road Scene Understanding with Multiscale Voxel Deep Network [Slides](https://project.inria.fr/ppniv18/files/2018/10/presentation.pdf)
+* Semantic Segmentation of 3D point Clouds Loic Landireu [[Slides](http://bezout.univ-paris-est.fr/wp-content/uploads/2019/04/Landrieu_GT_appr_opt.pdf)]
+* Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning [[CVPR Workshop 2019](https://scene-understanding.com/papers/point_cloud_oversegmentation__CVPR_workshop_-1.pdf)], [video](https://www.youtube.com/watch?v=bKxU03tjLJ4&feature=youtu.be)
