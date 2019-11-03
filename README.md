@@ -16,7 +16,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Fast Multi-pass 3D Point Segmentation Based on a Structured Mesh Graph for Ground Vehicles [pdf](https://ieeexplore.ieee.org/abstract/document/8500552) [video](https://www.youtube.com/watch?v=cwmcuRnWJfE)
 * Circular Convolutional Neural Networks for Panoramic Images and Laser Data [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/schubert19_IV.pdf)
 * Python bindings for Point Cloud Library [[git](https://github.com/strawlab/python-pcl)] 
-
+* Identifying Unknown Instances for Autonomous Driving/Open-set instance segmentation algorithm [CoRL 2019](https://www.robot-learning.org/) [[pdf](https://arxiv.org/abs/1910.11296)]
 ## Pointcloud Density 
 * DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
