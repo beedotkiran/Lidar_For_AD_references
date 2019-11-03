@@ -18,7 +18,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Python bindings for Point Cloud Library [[git](https://github.com/strawlab/python-pcl)] 
 
 ## Pointcloud Density 
-* DBSCAN algorithm : [wiki](https://en.wikipedia.org/wiki/DBSCAN), A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [pdf[(https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
+* DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
 * STD: Sparse-to-Dense 3D Object Detector for Point Cloud [pdf](https://arxiv.org/abs/1907.10471)
 * Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
@@ -116,7 +116,8 @@ A list of references on lidar point cloud processing for autonomous driving
 ### Large-scale pointcloud Algorithms (vs scan based)
 * Datasets : 
     * Semantic 3D [dataset](http://www.semantic3d.net/) 
-    * * Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)]
+    * Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)]
+    * HD Map Dataset & Localization Dataset NAVER Labs : [[link](https://hdmap.naverlabs.com/dataset.html)]
 * Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs CVPR2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Landrieu_Large-Scale_Point_Cloud_CVPR_2018_paper.pdf)]
 * PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space NeurIPS 2017 [[pdf](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf), [code](https://github.com/charlesq34/pointnet2)], [semantic seg code](https://github.com/mathieuorhan/pointnet2_semantic)
 * ConvPoint: continuous convolutions for cloud processing Eurographics 3DOR, 2019 [pdf](https://arxiv.org/abs/1904.02375), [code](https://github.com/aboulch/ConvPoint)
