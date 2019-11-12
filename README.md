@@ -18,6 +18,8 @@ A list of references on lidar point cloud processing for autonomous driving
 * Circular Convolutional Neural Networks for Panoramic Images and Laser Data [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/schubert19_IV.pdf)
 * Efficient Convolutions for Real-Time Semantic Segmentation of 3D Point Clouds [[pdf](http://www.cs.toronto.edu/~urtasun/publications/zhang_etal_3dv18.pdf)]
 * Identifying Unknown Instances for Autonomous Driving/Open-set instance segmentation algorithm [CoRL 2019](https://www.robot-learning.org/) [[pdf](https://arxiv.org/abs/1910.11296)]
+* RIU-Net: Embarrassingly simple semantic segmentation of3D LiDAR point cloud. [[pdf](https://arxiv.org/abs/1905.08748), [LU-net](https://hal.archives-ouvertes.fr/hal-02269915/document)]
+* SalsaNet: Fast Road and Vehicle Segmentation in LiDAR Point Clouds for Autonomous Driving [[pdf](https://arxiv.org/abs/1909.08291)]
 
 ## Continous domain DNNs
 * Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
@@ -73,6 +75,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * PointSeg: Real-Time Semantic Segmentation Based on 3D LiDAR Point Cloud [[pdf](https://arxiv.org/pdf/1807.06288.pdf)]
 * Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks [[pdf](https://arxiv.org/abs/1703.03613)]
 * ChipNet: Real-Time LiDAR Processing for Drivable Region Segmentation on an FPGA [[pdf](https://arxiv.org/pdf/1808.03506.pdf)]
+* 
 
 ## Maps / Grids / HD Maps / Occupancy grids/ Prior Maps
 * Hierarchies of Octrees for Efficient 3D Mapping [pdf](https://www.ais.uni-bonn.de/papers/IROS-2011_Wurm_Holz.pdf)
@@ -124,6 +127,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Neural Architecture Search for Object Detection in Point Cloud [[blog](https://medium.com/seoul-robotics/neural-architecture-search-for-object-detection-in-point-cloud-f2d57a5953d5)], [[AutoDeepLabNAS paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf)]
 * Self-Supervised Deep Learning on Point Clouds by Reconstructing Space NeurIPS 2019 [[pdf](https://arxiv.org/abs/1901.08396)]
 * Domain Adaptation for Vehicle Detection from Bird's Eye View LiDAR Point Cloud Data ICCVW 2019 [pdf](http://openaccess.thecvf.com/content_ICCVW_2019/papers/TASK-CV/Saleh_Domain_Adaptation_for_Vehicle_Detection_from_Birds_Eye_View_LiDAR_ICCVW_2019_paper.pdf)
+* Weighted Point Cloud Augmentation for Neural Network Training Data Class-Imbalance [[pdf](https://arxiv.org/abs/1904.04094)]
 
 ### Large-scale pointcloud Algorithms (vs scan based)
 * Datasets : 
