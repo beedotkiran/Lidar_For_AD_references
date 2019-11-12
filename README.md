@@ -17,12 +17,11 @@ A list of references on lidar point cloud processing for autonomous driving
 * Fast Multi-pass 3D Point Segmentation Based on a Structured Mesh Graph for Ground Vehicles [pdf](https://ieeexplore.ieee.org/abstract/document/8500552) [video](https://www.youtube.com/watch?v=cwmcuRnWJfE)
 * Circular Convolutional Neural Networks for Panoramic Images and Laser Data [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/schubert19_IV.pdf)
 * Efficient Convolutions for Real-Time Semantic Segmentation of 3D Point Clouds [[pdf](http://www.cs.toronto.edu/~urtasun/publications/zhang_etal_3dv18.pdf)]
-* Python bindings for Point Cloud Library [[git](https://github.com/strawlab/python-pcl)] 
 * Identifying Unknown Instances for Autonomous Driving/Open-set instance segmentation algorithm [CoRL 2019](https://www.robot-learning.org/) [[pdf](https://arxiv.org/abs/1910.11296)]
 
 ## Continous domain DNNs
 * Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
-
+* 
 
 ## Pointcloud Density 
 * DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
@@ -45,6 +44,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * A Fast RANSAC–Based Registration Algorithm for Accurate Localization in Unknown Environments using LIDAR Measurements [[pdf](http://vision.ucla.edu/papers/fontanelliRS07.pdf)]
 * Hierarchical Plane Extraction (HPE): An Efficient Method For Extraction Of Planes From Large Pointcloud Datasets [[pdf](https://pdfs.semanticscholar.org/8217/61a207088e6015de845cc3f9e556e1c94be1.pdf)]
 * A Fast and Accurate Plane Detection Algorithm for Large Noisy Point Clouds Using Filtered Normals and Voxel Growing [[pdf](https://hal-mines-paristech.archives-ouvertes.fr/hal-01097361/document)]
+* SPLATNet: Sparse Lattice Networks for Point Cloud Processing CVPR 2018 [[pdf](https://arxiv.org/abs/1802.08275), [code](https://github.com/NVlabs/splatnet)]
 
 ## Object detection and Tracking
 * Learning a Real-Time 3D Point Cloud Obstacle Discriminator via Bootstrapping [pdf](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.385.6290)
@@ -57,9 +57,11 @@ A list of references on lidar point cloud processing for autonomous driving
 * Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [pdf](https://arxiv.org/abs/1809.05590)
 * Deep tracking in the wild: End-to-end tracking using recurrent neural networks [[pdf](http://www.robots.ox.ac.uk/~mobile/Papers/2017_IJRR_Dequaire.pdf)]
 * Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [[pdf](https://arxiv.org/abs/1809.05590)], [[video](https://www.youtube.com/watch?v=2DzH9COLpkU)]
+* VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection CVPR 2018 [[pdf](https://arxiv.org/abs/1711.06396), [code](https://github.com/tsinghua-rll/VoxelNet-tensorflow)]
 * PIXOR: Real-time 3D Object Detection from Point Clouds CVPR 2018 [[pdf](https://arxiv.org/pdf/1902.06326.pdf)]
 * Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges [[pdf](https://arxiv.org/pdf/1902.07830.pdf)]
 * Low resolution lidar-based multi-object tracking for driving applications [pdf](https://upcommons.upc.edu/bitstream/handle/2117/113342/1924-Low-resolution-lidar-based-multi-object-tracking-for-driving-applications.pdf)
+* Patch Refinement -- Localized 3D Object Detection [pdf](https://arxiv.org/abs/1910.04093)
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
@@ -135,3 +137,10 @@ A list of references on lidar point cloud processing for autonomous driving
 * Classification of Point Cloud for Road Scene Understanding with Multiscale Voxel Deep Network [Slides](https://project.inria.fr/ppniv18/files/2018/10/presentation.pdf)
 * Semantic Segmentation of 3D point Clouds Loic Landireu [[Slides](http://bezout.univ-paris-est.fr/wp-content/uploads/2019/04/Landrieu_GT_appr_opt.pdf)]
 * Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning [[CVPR Workshop 2019](https://scene-understanding.com/papers/point_cloud_oversegmentation__CVPR_workshop_-1.pdf)], [video](https://www.youtube.com/watch?v=bKxU03tjLJ4&feature=youtu.be)
+
+
+## Tools/SW/Packages
+* Python bindings for Point Cloud Library [[git](https://github.com/strawlab/python-pcl)] 
+* Open3D [[link](http://www.open3d.org/)]
+* pyntcloud [[link](https://github.com/daavoo/pyntcloud)]
+* PyVista [[link](https://github.com/pyvista/pyvista)]
