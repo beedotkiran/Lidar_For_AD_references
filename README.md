@@ -28,6 +28,7 @@ A list of references on lidar point cloud processing for autonomous driving
 ## Pointcloud Density 
 * DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
+* Building Maps for Autonomous Navigation Using Sparse Visual SLAM Features [[pdf](https://ygling2008.github.io/papers/IROS2017.pdf)]
 * STD: Sparse-to-Dense 3D Object Detector for Point Cloud [pdf](https://arxiv.org/abs/1907.10471)
 * Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
 * The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879), [code](https://github.com/zgojcic/3DSmoothNet)]
@@ -36,6 +37,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Point Clouds Registration with Probabilistic Data Association [[git](https://github.com/ethz-asl/robust_point_cloud_registration)]
 * Robust LIDAR Localization using Multiresolution Gaussian Mixture Maps for Autonomous Driving [[pdf](https://pdfs.semanticscholar.org/7292/1fc6b181cf75790664e482963d982ec9ac48.pdf)], [[Thesis](https://pdfs.semanticscholar.org/a7ce/36bbdf85f1dba6cf16f47ad3799618511960.pdf)]
 * Automatic Merging of Lidar Point-Clouds Using Data from Low-Cost GPS/IMU Systems [[pdf](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1081&context=ece_facpub)]
+* Fast and Robust 3D Feature Extraction from Sparse Point Clouds [[pdf](http://jacoposerafin.com/wp-content/uploads/serafin16iros.pdf)]
 * 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration [[pdf](https://arxiv.org/abs/1807.09413)]
 * Incremental Segment-Based Localization in 3D Point Clouds [[pdf](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
 
@@ -62,8 +64,8 @@ A list of references on lidar point cloud processing for autonomous driving
 * VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection CVPR 2018 [[pdf](https://arxiv.org/abs/1711.06396), [code](https://github.com/tsinghua-rll/VoxelNet-tensorflow)]
 * PIXOR: Real-time 3D Object Detection from Point Clouds CVPR 2018 [[pdf](https://arxiv.org/pdf/1902.06326.pdf)]
 * Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges [[pdf](https://arxiv.org/pdf/1902.07830.pdf)]
-* Low resolution lidar-based multi-object tracking for driving applications [pdf](https://upcommons.upc.edu/bitstream/handle/2117/113342/1924-Low-resolution-lidar-based-multi-object-tracking-for-driving-applications.pdf)
-* Patch Refinement -- Localized 3D Object Detection [pdf](https://arxiv.org/abs/1910.04093)
+* Low resolution lidar-based multi-object tracking for driving applications [[pdf](https://upcommons.upc.edu/bitstream/handle/2117/113342/1924-Low-resolution-lidar-based-multi-object-tracking-for-driving-applications.pdf)]
+* Patch Refinement -- Localized 3D Object Detection [[pdf](https://arxiv.org/abs/1910.04093)]
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
