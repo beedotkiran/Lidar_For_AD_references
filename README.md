@@ -23,7 +23,6 @@ A list of references on lidar point cloud processing for autonomous driving
 
 ## Continous domain DNNs
 * Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
-* 
 
 ## Pointcloud Density 
 * DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
