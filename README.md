@@ -23,6 +23,8 @@ A list of references on lidar point cloud processing for autonomous driving
 * SalsaNet: Fast Road and Vehicle Segmentation in LiDAR Point Clouds for Autonomous Driving [[pdf](https://arxiv.org/abs/1909.08291)]
 * SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation [[link](https://github.com/chenfengxu714/SqueezeSegV3)]
 * PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation [[link](https://arxiv.org/abs/2003.14032)]
+* MVLidarNet: Real-Time Multi-Class Scene Understanding for Autonomous Driving Using Multiple Views [[link](https://www.youtube.com/watch?v=2ck5_sToayc), [video](https://www.youtube.com/watch?v=2ck5_sToayc)]
+
 
 ## Continous domain DNNs
 * Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
@@ -68,6 +70,12 @@ A list of references on lidar point cloud processing for autonomous driving
 * Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges [[pdf](https://arxiv.org/pdf/1902.07830.pdf)]
 * Low resolution lidar-based multi-object tracking for driving applications [[pdf](https://upcommons.upc.edu/bitstream/handle/2117/113342/1924-Low-resolution-lidar-based-multi-object-tracking-for-driving-applications.pdf)]
 * Patch Refinement -- Localized 3D Object Detection [[pdf](https://arxiv.org/abs/1910.04093)]
+* PointPillars: Fast Encoders for Object Detection from Point Clouds CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf)]
+* StarNet: Targeted Computation for Object Detection in Point Clouds NeurIPS 2019 ML4AD [[pdf](https://arxiv.org/abs/1908.11069)]
+* PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection CVPR 2020 [[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.pdf)]
+* LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meyer_LaserNet_An_Efficient_Probabilistic_3D_Object_Detector_for_Autonomous_Driving_CVPR_2019_paper.pdf)]
+* Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection [[pdf](https://arxiv.org/abs/2005.09927)]
+* AFDet: Anchor Free One Stage 3D Object Detection [[pdf](https://arxiv.org/abs/2006.12671)]
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
@@ -79,7 +87,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * PointSeg: Real-Time Semantic Segmentation Based on 3D LiDAR Point Cloud [[pdf](https://arxiv.org/pdf/1807.06288.pdf)]
 * Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks [[pdf](https://arxiv.org/abs/1703.03613)]
 * ChipNet: Real-Time LiDAR Processing for Drivable Region Segmentation on an FPGA [[pdf](https://arxiv.org/pdf/1808.03506.pdf)]
-* 
+
 
 ## Maps / Grids / HD Maps / Occupancy grids/ Prior Maps
 * Hierarchies of Octrees for Efficient 3D Mapping [pdf](https://www.ais.uni-bonn.de/papers/IROS-2011_Wurm_Holz.pdf)
@@ -143,6 +151,10 @@ A list of references on lidar point cloud processing for autonomous driving
 * Self-Supervised Deep Learning on Point Clouds by Reconstructing Space NeurIPS 2019 [[pdf](https://arxiv.org/abs/1901.08396)]
 * Domain Adaptation for Vehicle Detection from Bird's Eye View LiDAR Point Cloud Data ICCVW 2019 [pdf](http://openaccess.thecvf.com/content_ICCVW_2019/papers/TASK-CV/Saleh_Domain_Adaptation_for_Vehicle_Detection_from_Birds_Eye_View_LiDAR_ICCVW_2019_paper.pdf)
 * Weighted Point Cloud Augmentation for Neural Network Training Data Class-Imbalance [[pdf](https://arxiv.org/abs/1904.04094)]
+* Quantifying Data Augmentation for LiDAR based 3D Object Detection [[pdf](https://arxiv.org/pdf/2004.01643v1.pdf)]
+* Improving 3D Object Detection through Progressive Population Based Augmentation [[pdf(https://arxiv.org/abs/2004.00831)]
+* 3D Object Detection From LiDAR Data Using Distance Dependent Feature Extraction VEHITS 2020 [[pdf](https://arxiv.org/abs/2003.00888)]
+* Training a Fast Object Detector for LiDAR Range Images Using Labeled Data from Sensors with Higher Resolution ITSC 2019 [[pdf](https://arxiv.org/abs/1905.03066)]
 
 ### Large-scale pointcloud Algorithms (vs scan based)
 * Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs CVPR2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Landrieu_Large-Scale_Point_Cloud_CVPR_2018_paper.pdf)]
