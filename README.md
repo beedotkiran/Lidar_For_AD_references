@@ -44,7 +44,8 @@ A list of references on lidar point cloud processing for autonomous driving
 * Fast and Robust 3D Feature Extraction from Sparse Point Clouds [[pdf](http://jacoposerafin.com/wp-content/uploads/serafin16iros.pdf)]
 * 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration [[pdf](https://arxiv.org/abs/1807.09413)]
 * Incremental Segment-Based Localization in 3D Point Clouds [[pdf](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
-
+* OverlapNet: Loop Closing for LiDAR-based SLAM, RSS 2020 [[pdf](OverlapNet: Loop Closing for LiDAR-based SLAM), [git](https://github.com/PRBonn/OverlapNet), [video](https://www.youtube.com/watch?v=96TBjiay59A)]
+* CorsNet: 3D Point Cloud Registration by Deep Neural Network, ICRA 2020 [[link](https://ieeexplore.ieee.org/abstract/document/8978671)]
 ## Feature Extraction
 * Fast Feature Detection and Stochastic Parameter Estimation of Road Shape using Multiple LIDAR [[pdf](https://www.ri.cmu.edu/pub_files/2008/9/peterson_kevin_2008_1.pdf)]
 * Finding Planes in LiDAR Point Clouds for Real-Time Registration [[pdf](http://ilab.usc.edu/publications/doc/Grant_etal13iros.pdf)]
@@ -77,6 +78,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection 2020 [[pdf](https://arxiv.org/abs/2005.09927)]
 * AFDet: Anchor Free One Stage 3D Object Detection [[pdf](https://arxiv.org/abs/2006.12671)]
 * SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020) [[pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf), [git](https://github.com/skyhehe123/SA-SSD)]
+* Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds, ICRA 2020 [[pdf](https://arxiv.org/abs/2004.11647)]
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
