@@ -64,7 +64,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * End-to-end Learning of Multi-sensor 3D Tracking by Detection [pdf](https://arxiv.org/pdf/1806.11534.pdf)
 * Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [pdf](https://arxiv.org/abs/1809.05590)
 * Deep tracking in the wild: End-to-end tracking using recurrent neural networks [[pdf](http://www.robots.ox.ac.uk/~mobile/Papers/2017_IJRR_Dequaire.pdf)]
-* Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [[pdf](https://arxiv.org/abs/1809.05590)], [[video](https://www.youtube.com/watch?v=2DzH9COLpkU)]
+* Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection [[pdf](https://arxiv.org/abs/1809.05590)], [video](https://www.youtube.com/watch?v=2DzH9COLpkU)]
 * VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection CVPR 2018 [[pdf](https://arxiv.org/abs/1711.06396), [code](https://github.com/tsinghua-rll/VoxelNet-tensorflow)]
 * PIXOR: Real-time 3D Object Detection from Point Clouds CVPR 2018 [[pdf](https://arxiv.org/pdf/1902.06326.pdf)]
 * Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges [[pdf](https://arxiv.org/pdf/1902.07830.pdf)]
@@ -74,8 +74,9 @@ A list of references on lidar point cloud processing for autonomous driving
 * StarNet: Targeted Computation for Object Detection in Point Clouds NeurIPS 2019 ML4AD [[pdf](https://arxiv.org/abs/1908.11069)]
 * PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection CVPR 2020 [[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.pdf)]
 * LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meyer_LaserNet_An_Efficient_Probabilistic_3D_Object_Detector_for_Autonomous_Driving_CVPR_2019_paper.pdf)]
-* Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection [[pdf](https://arxiv.org/abs/2005.09927)]
+* Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection 2020 [[pdf](https://arxiv.org/abs/2005.09927)]
 * AFDet: Anchor Free One Stage 3D Object Detection [[pdf](https://arxiv.org/abs/2006.12671)]
+* SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020) [[pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf), [git](https://github.com/skyhehe123/SA-SSD)]
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
@@ -91,7 +92,7 @@ A list of references on lidar point cloud processing for autonomous driving
 
 ## Maps / Grids / HD Maps / Occupancy grids/ Prior Maps
 * Hierarchies of Octrees for Efficient 3D Mapping [pdf](https://www.ais.uni-bonn.de/papers/IROS-2011_Wurm_Holz.pdf)
-* Adaptive Resolution Grid Mapping using Nd-Tree [[ieee](https://ieeexplore.ieee.org/document/5980084)], [[pdf](https://www.researchgate.net/publication/224252536_Finding_the_adequate_resolution_for_grid_mapping_-_Cell_sizes_locally_adapting_on-the-fly)], [[video](https://www.youtube.com/watch?v=PYMlo8Wb6qE)]
+* Adaptive Resolution Grid Mapping using Nd-Tree [[ieee](https://ieeexplore.ieee.org/document/5980084)], [[pdf](https://www.researchgate.net/publication/224252536_Finding_the_adequate_resolution_for_grid_mapping_-_Cell_sizes_locally_adapting_on-the-fly), [video](https://www.youtube.com/watch?v=PYMlo8Wb6qE)]
 * LIDAR-Data Accumulation Strategy To Generate High Definition Maps For Autonomous Vehicles [[link](https://ieeexplore.ieee.org/document/8170357/)]
 * Long-term 3D map maintenance in dynamic environments [[video](https://www.youtube.com/watch?v=cMgLyLpnsoU)]
 * Detection and Tracking of Moving Objects Using 2.5D Motion Grids [[pdf](http://a-asvadi.ir/wp-content/uploads/itsc15.pdf)]
@@ -101,7 +102,7 @@ A list of references on lidar point cloud processing for autonomous driving
  * Fast 3-D Urban Object Detection on Streaming Point Clouds [[pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/workshops/w15/Paper%202.pdf)]
 * Mobile Laser Scanned Point-Clouds for Road Object Detection and Extraction: A Review [[pdf](https://www.mdpi.com/2072-4292/10/10/1531)]
 * Efficient Continuous-time SLAM for 3D Lidar-based Online Mapping [[pdf](https://www.ais.uni-bonn.de/papers/ICRA_2018_Droeschel.pdf)]
-* DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf)],[[video](https://www.youtube.com/watch?v=M6lhkzKFEhA)]
+* DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf)],[video](https://www.youtube.com/watch?v=M6lhkzKFEhA)]
 * Recurrent-OctoMap: Learning State-based Map Refinement for Long-Term Semantic Mapping with 3D-Lidar Data [[pdf](https://arxiv.org/pdf/1807.00925.pdf)]
 * HDNET: Exploiting HD Maps for 3D Object Detection [[pdf](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)]
 
@@ -122,7 +123,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * LiDAR-Video Driving Dataset: Learning Driving Policies Effectively [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf)]
 * KAIST Complex Urban Data Set Dataset [[dataset](http://irap.kaist.ac.kr/dataset/download_1.html)]
 * Semantic KITTI [[dataset](http://semantic-kitti.org/)]
-* A*3D: An Autonomous Driving Dataset in Challeging Environments [[dataset](https://github.com/I2RDL2/ASTAR-3D)], [[video](https://www.youtube.com/watch?v=QtK0VIywrmM&feature=youtu.be)]
+* A*3D: An Autonomous Driving Dataset in Challeging Environments [[dataset](https://github.com/I2RDL2/ASTAR-3D)], [video](https://www.youtube.com/watch?v=QtK0VIywrmM&feature=youtu.be)]
 * Semantic 3D [dataset](http://www.semantic3d.net/) 
 * Paris-Lille-3D: A Point Cloud Dataset for Urban Scene Segmentation and Classification [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Roynard_Paris-Lille-3D_A_Point_CVPR_2018_paper.pdf) [dataset](http://npm3d.fr/paris-lille-3d)]
 * SynthCity: A large-scale synthetic point cloud 2019 [[dataset](http://www.synthcity.xyz/), [pdf](https://arxiv.org/abs/1907.04758)]
