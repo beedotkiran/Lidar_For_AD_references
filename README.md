@@ -23,8 +23,6 @@ A list of references on lidar point cloud processing for autonomous driving
 * SalsaNet: Fast Road and Vehicle Segmentation in LiDAR Point Clouds for Autonomous Driving [[pdf](https://arxiv.org/abs/1909.08291)]
 * SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation [[link](https://github.com/chenfengxu714/SqueezeSegV3)]
 * PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation [[link](https://arxiv.org/abs/2003.14032)]
-* MVLidarNet: Real-Time Multi-Class Scene Understanding for Autonomous Driving Using Multiple Views [[link](https://www.youtube.com/watch?v=2ck5_sToayc), [video](https://www.youtube.com/watch?v=2ck5_sToayc)]
-
 
 ## Continous domain DNNs
 * Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
@@ -46,6 +44,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Incremental Segment-Based Localization in 3D Point Clouds [[pdf](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
 * OverlapNet: Loop Closing for LiDAR-based SLAM, RSS 2020 [[pdf](OverlapNet: Loop Closing for LiDAR-based SLAM), [git](https://github.com/PRBonn/OverlapNet), [video](https://www.youtube.com/watch?v=96TBjiay59A)]
 * CorsNet: 3D Point Cloud Registration by Deep Neural Network, ICRA 2020 [[link](https://ieeexplore.ieee.org/abstract/document/8978671)]
+
 ## Feature Extraction
 * Fast Feature Detection and Stochastic Parameter Estimation of Road Shape using Multiple LIDAR [[pdf](https://www.ri.cmu.edu/pub_files/2008/9/peterson_kevin_2008_1.pdf)]
 * Finding Planes in LiDAR Point Clouds for Real-Time Registration [[pdf](http://ilab.usc.edu/publications/doc/Grant_etal13iros.pdf)]
@@ -79,6 +78,9 @@ A list of references on lidar point cloud processing for autonomous driving
 * AFDet: Anchor Free One Stage 3D Object Detection [[pdf](https://arxiv.org/abs/2006.12671)]
 * SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020) [[pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf), [git](https://github.com/skyhehe123/SA-SSD)]
 * Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds, ICRA 2020 [[pdf](https://arxiv.org/abs/2004.11647)]
+* MVLidarNet: Real-Time Multi-Class Scene Understanding for Autonomous Driving Using Multiple Views [[link](https://www.youtube.com/watch?v=2ck5_sToayc), [video](https://www.youtube.com/watch?v=2ck5_sToayc)]
+* Learning to Optimally Segment Point Clouds, ICRA 2020 [[pdf](https://arxiv.org/abs/1912.04976), [video](https://www.youtube.com/watch?v=wLxIAwIL870), [git](https://github.com/peiyunh/opcseg)]
+* What You See is What You Get: Exploiting Visibility for 3D Object Detection [[pdf](https://arxiv.org/abs/1912.04986), [video](https://www.youtube.com/watch?v=497OF-otY2k), [project](https://www.cs.cmu.edu/~peiyunh/wysiwyg/index.html)]
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
