@@ -24,9 +24,6 @@ A list of references on lidar point cloud processing for autonomous driving
 * SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation [[link](https://github.com/chenfengxu714/SqueezeSegV3)]
 * PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation [[link](https://arxiv.org/abs/2003.14032)]
 
-## Continous domain DNNs
-* Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
-
 ## Pointcloud Density 
 * DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
@@ -162,12 +159,15 @@ A list of references on lidar point cloud processing for autonomous driving
 * Training a Fast Object Detector for LiDAR Range Images Using Labeled Data from Sensors with Higher Resolution ITSC 2019 [[pdf](https://arxiv.org/abs/1905.03066)]
 
 ### Large-scale pointcloud Algorithms (vs scan based)
+* Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
 * Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs CVPR2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Landrieu_Large-Scale_Point_Cloud_CVPR_2018_paper.pdf)]
 * PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space NeurIPS 2017 [[pdf](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf), [code](https://github.com/charlesq34/pointnet2)], [semantic seg code](https://github.com/mathieuorhan/pointnet2_semantic)
 * ConvPoint: continuous convolutions for cloud processing Eurographics 3DOR, 2019 [pdf](https://arxiv.org/abs/1904.02375), [code](https://github.com/aboulch/ConvPoint)
 * Classification of Point Cloud for Road Scene Understanding with Multiscale Voxel Deep Network [Slides](https://project.inria.fr/ppniv18/files/2018/10/presentation.pdf)
 * Semantic Segmentation of 3D point Clouds Loic Landireu [[Slides](http://bezout.univ-paris-est.fr/wp-content/uploads/2019/04/Landrieu_GT_appr_opt.pdf)]
 * Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning [[CVPR Workshop 2019](https://scene-understanding.com/papers/point_cloud_oversegmentation__CVPR_workshop_-1.pdf)], [video](https://www.youtube.com/watch?v=bKxU03tjLJ4&feature=youtu.be)
+* KPConv: Flexible and Deformable Convolution for Point Clouds [[pdf](https://arxiv.org/abs/1904.08889), [git](https://github.com/HuguesTHOMAS/KPConv)]
+* RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.html), [git](https://github.com/QingyongHu/RandLA-Net)]
 
 ## Tools/SW/Packages
 * Python bindings for Point Cloud Library [[git](https://github.com/strawlab/python-pcl)] 
