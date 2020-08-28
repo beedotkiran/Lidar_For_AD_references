@@ -139,6 +139,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * SemanticPOSS: A Point Cloud Dataset with Large Quantity of Dynamic Instances [[link](http://www.poss.pku.edu.cn/semanticposs.html)]
 * A2D2 Audi dataset [[link](https://www.a2d2.audi/a2d2/en/dataset.html)]
 * PandaSet : Public large-scale dataset for autonomous driving provided by Hesai & Scale. [[link](https://scale.com/open-datasets/pandaset)]
+* Fast Synthetic LiDAR Rendering via Spherical UV Unwrapping of Equirectangular Z-Buffer Images 2020 [[pdf](https://arxiv.org/abs/2006.04345)]
 
 ## Spatio-Temporal, Movement, Flow estimation in Pointclouds
 * Rigid Scene Flow for 3D LiDAR Scans IROS 2016 [[pdf](https://europa2.informatik.uni-freiburg.de/files/dewan-16iros.pdf)]
@@ -149,6 +150,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * LiDAR-Flow: Dense Scene Flow Estimation from Sparse LiDAR and Stereo Images [[pdf](https://arxiv.org/abs/1910.14453v1)]
 * 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks CVPR 2019 [[pdf](https://zpascal.net/cvpr2019/Choy_4D_Spatio-Temporal_ConvNets_Minkowski_Convolutional_Neural_Networks_CVPR_2019_paper.pdf), [code](https://github.com/StanfordVL/MinkowskiEngine)]
 * MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences, ICCV 2019 [[pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf)]
+* DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR 2020 [[pdf](https://arxiv.org/abs/2008.08136)]
 
 ## Advanced Topics/Other applications
 **TAsks** : Upsampling, Domain adaptation Sim2Real, NAS, SSL
