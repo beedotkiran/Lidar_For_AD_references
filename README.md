@@ -153,7 +153,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR 2020 [[pdf](https://arxiv.org/abs/2008.08136)]
 
 ## Advanced Topics/Other applications
-**TAsks** : Upsampling, Domain adaptation Sim2Real, NAS, SSL
+**TAsks** : Upsampling, Domain adaptation Sim2Real, NAS, SSL, shape reconstruction
 * PU-GAN: a Point Cloud Upsampling Adversarial Network ICCV 2019 [[pdf](https://arxiv.org/abs/1907.10844), [code](https://github.com/liruihui/PU-GAN)]
 * Neural Architecture Search for Object Detection in Point Cloud [[blog](https://medium.com/seoul-robotics/neural-architecture-search-for-object-detection-in-point-cloud-f2d57a5953d5)], [[AutoDeepLabNAS paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf)]
 * Self-Supervised Deep Learning on Point Clouds by Reconstructing Space NeurIPS 2019 [[pdf](https://arxiv.org/abs/1901.08396)]
@@ -163,6 +163,14 @@ A list of references on lidar point cloud processing for autonomous driving
 * Improving 3D Object Detection through Progressive Population Based Augmentation [[pdf(https://arxiv.org/abs/2004.00831)]
 * 3D Object Detection From LiDAR Data Using Distance Dependent Feature Extraction VEHITS 2020 [[pdf](https://arxiv.org/abs/2003.00888)]
 * Training a Fast Object Detector for LiDAR Range Images Using Labeled Data from Sensors with Higher Resolution ITSC 2019 [[pdf](https://arxiv.org/abs/1905.03066)]
+* Performance of LiDAR object detection deep learning architectures based on artificially generated point cloud data from CARLA simulator 2019 [[pdf](https://ieeexplore.ieee.org/abstract/document/8864642/)]
+* PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation [[pdf](https://papers.nips.cc/paper/8940-pointdan-a-multi-scale-3d-domain-adaption-network-for-point-cloud-representation.pdf)]
+* Efficient Learning on Point Clouds with Basis Point Sets ICCV 2019 [[pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Prokudin_Efficient_Learning_on_Point_Clouds_With_Basis_Point_Sets_ICCV_2019_paper.pdf)]
+* Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds 2020 [[pdf](https://arxiv.org/abs/2007.08488)]
+* Neural Implicit Embedding for Point Cloud Analysis CVPR 2020 [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fujiwara_Neural_Implicit_Embedding_for_Point_Cloud_Analysis_CVPR_2020_paper.pdf)]
+* DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation [[pdf](https://arxiv.org/abs/1901.05103)]
+
+
 
 ### Large-scale pointcloud Algorithms (vs scan based)
 * Deep Parametric Continuous Convolutional Neural Networks CVPR 2018 [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf)]
