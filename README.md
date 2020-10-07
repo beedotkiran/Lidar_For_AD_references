@@ -15,7 +15,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * CNN for Very Fast Ground Segmentation in Velodyne LiDAR Data [[pdf](https://arxiv.org/pdf/1709.02128.pdf)]
 * A Comparative Study of Segmentation and Classification Methods for 3D Point Clouds 2016 Masters Thesis [[pdf](http://publications.lib.chalmers.se/records/fulltext/238602/238602.pdf)]
 * Fast Multi-pass 3D Point Segmentation Based on a Structured Mesh Graph for Ground Vehicles [pdf](https://ieeexplore.ieee.org/abstract/document/8500552) [video](https://www.youtube.com/watch?v=cwmcuRnWJfE)
-* RangeNet++: Fast and Accurate LiDAR Semantic Segmentation [[link](https://github.com/PRBonn/lidar-bonnetal]], [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf)]
+* RangeNet++: Fast and Accurate LiDAR Semantic Segmentation [[link](https://github.com/PRBonn/lidar-bonnetal], [[pdf](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf)]
 * Circular Convolutional Neural Networks for Panoramic Images and Laser Data [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/schubert19_IV.pdf)
 * Efficient Convolutions for Real-Time Semantic Segmentation of 3D Point Clouds [[pdf](http://www.cs.toronto.edu/~urtasun/publications/zhang_etal_3dv18.pdf)]
 * Identifying Unknown Instances for Autonomous Driving/Open-set instance segmentation algorithm [CoRL 2019](https://www.robot-learning.org/) [[pdf](https://arxiv.org/abs/1910.11296)]
@@ -23,6 +23,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * SalsaNet: Fast Road and Vehicle Segmentation in LiDAR Point Clouds for Autonomous Driving [[pdf](https://arxiv.org/abs/1909.08291)]
 * SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation [[link](https://github.com/chenfengxu714/SqueezeSegV3)]
 * PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation [[link](https://arxiv.org/abs/2003.14032)]
+* Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020 [[pdf](https://arxiv.org/abs/2004.11803)]
 * Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds [[link](https://ieeexplore.ieee.org/document/9095372)]
 * Semantic Segmentation of 3D LiDAR Data in Dynamic Scene Using Semi-supervised Learning [[link](https://arxiv.org/abs/1809.00426)]
 * Learning Hierarchical Semantic Segmentations of LIDAR Data 3DV 2015 [[pdf](https://www.cs.princeton.edu/~funk/3DV15.pdf   )]
