@@ -27,15 +27,21 @@ A list of references on lidar point cloud processing for autonomous driving
 * Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds [[link](https://ieeexplore.ieee.org/document/9095372)]
 * Semantic Segmentation of 3D LiDAR Data in Dynamic Scene Using Semi-supervised Learning [[link](https://arxiv.org/abs/1809.00426)]
 * Learning Hierarchical Semantic Segmentations of LIDAR Data 3DV 2015 [[pdf](https://www.cs.princeton.edu/~funk/3DV15.pdf   )]
+* EfficientLPS: Efficient LiDAR Panoptic Segmentation 2021 [pdf](https://arxiv.org/abs/2102.08009), [video](https://www.youtube.com/watch?v=_ay7ci-Nd0E)
+* 4D Panoptic LiDAR Segmentation 2021 [[pdf](https://arxiv.org/abs/2102.12472)]
 
-## Pointcloud Density 
+
+## Pointcloud Density \& Compression
 * DBSCAN : A density-based algorithm for discovering clusters in large spatial databases with noise (1996) [[pdf](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)]
 * Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection [pdf](https://bdpi.usp.br/bitstream/handle/BDPI/51005/2709770.pdf?sequence=1)
 * Building Maps for Autonomous Navigation Using Sparse Visual SLAM Features [[pdf](https://ygling2008.github.io/papers/IROS2017.pdf)]
 * STD: Sparse-to-Dense 3D Object Detector for Point Cloud [pdf](https://arxiv.org/abs/1907.10471)
 * Fast semantic segmentation of 3d point clounds with strongly varying density [[pdf](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/timo-jan-isprs2016.pdf)]
 * The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[pdf](https://arxiv.org/abs/1811.06879), [code](https://github.com/zgojcic/3DSmoothNet)]
-
+* Deep Compression for Dense Point Cloud Maps [[link](https://ieeexplore.ieee.org/document/9354895)]
+* Improved Deep Point Cloud Geometry Compression [[pdf](https://hal.archives-ouvertes.fr/hal-02910180/document), [git](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
+* Real-Time Spatio-Temporal LiDAR Point Cloud Compression [[pdf](http://ras.papercept.net/images/temp/IROS/files/1091.pdf)]
+*  
 ## Registration and Localization
 * A Review of Point Cloud Registration Algorithms for Mobile Robotics 2015 [[pdf](https://hal.archives-ouvertes.fr/hal-01178661/document)]
 * LOAM: Lidar Odometry and Mapping in Real-time RSS 2014 [[pdf](https://ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf), [video](https://www.youtube.com/watch?v=8ezyhTAEyHs)]
@@ -168,7 +174,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR 2020 [[pdf](https://arxiv.org/abs/2008.08136)]
 
 ## Advanced Topics/Other applications
-**Tasks** : Upsampling, Domain adaptation Sim2Real, NAS, SSL, shape reconstruction, outlier extraction, Compression, Change detection
+**Tasks** : Upsampling, Domain adaptation Sim2Real, NAS, SSL, shape reconstruction, outlier extraction, Compression, Change detection, Domain Transfer
 * Semantic Point Cloud Filtering, Masters thesis 2017 [link](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MasterThesis_Stucker.pdf)
 * PU-GAN: a Point Cloud Upsampling Adversarial Network ICCV 2019 [[pdf](https://arxiv.org/abs/1907.10844), [code](https://github.com/liruihui/PU-GAN)]
 * Neural Architecture Search for Object Detection in Point Cloud [[blog](https://medium.com/seoul-robotics/neural-architecture-search-for-object-detection-in-point-cloud-f2d57a5953d5)], [[AutoDeepLabNAS paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Auto-DeepLab_Hierarchical_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2019_paper.pdf)]
@@ -187,6 +193,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation [[pdf](https://arxiv.org/abs/1901.05103)]
 * Mastering Data Complexity for Autonomous Driving with Adaptive Point Clouds for Urban Environments 2017 [[pdf](https://www.researchgate.net/publication/318093493_Mastering_Data_Complexity_for_Autonomous_Driving_with_Adaptive_Point_Clouds_for_Urban_Environments)]
 * Visually aided changes detection in 3D lidar based reconstruction 2015 [[Thesis](https://www.politesi.polimi.it/bitstream/10589/112343/3/tesi-Postica.pdf)]
+* Domain Transfer for Semantic Segmentation of LiDAR Data using Deep Neural Networks IROS 2020 [[pdf](http://ras.papercept.net/images/temp/IROS/files/0060.pdf), [video](https://www.youtube.com/watch?v=EkCO36zX6OI)]
 
 ### Graphs and Pointclouds
 * Detection of closed sharp edges in point clouds using normal estimation and graph theory CAD 2007 [[link](https://www.sciencedirect.com/science/article/abs/pii/S0010448506002260)]
