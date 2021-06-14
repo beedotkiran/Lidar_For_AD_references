@@ -221,3 +221,4 @@ A list of references on lidar point cloud processing for autonomous driving
 * kaolin : A PyTorch Library for Accelerating 3D Deep Learning Research [[link](https://github.com/NVIDIAGameWorks/kaolin/)]
 * PyTorch3D : FAIR's library of reusable components for deep learning with 3D data [[link](https://pytorch3d.org/)]
 * PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud [[link](https://github.com/sshaoshuai/PCDet)]
+* pointcloudset: Efficient analysis of large datasets of point clouds recorded over time [[link](https://github.com/virtual-vehicle/pointcloudset)]
