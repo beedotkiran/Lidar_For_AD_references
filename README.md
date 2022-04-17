@@ -29,6 +29,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Learning Hierarchical Semantic Segmentations of LIDAR Data 3DV 2015 [[pdf](https://www.cs.princeton.edu/~funk/3DV15.pdf   )]
 * EfficientLPS: Efficient LiDAR Panoptic Segmentation 2021 [pdf](https://arxiv.org/abs/2102.08009), [video](https://www.youtube.com/watch?v=_ay7ci-Nd0E)
 * 4D Panoptic LiDAR Segmentation 2021 [[pdf](https://arxiv.org/abs/2102.12472)]
+* urban_road_filter: a real-time LIDAR-based urban road and sidewalk detection algorithm for autonomous vehicles [[git](https://github.com/jkk-research/urban_road_filter), [video](https://www.youtube.com/watch?v=T2qi4pldR-E), [pdf](https://www.mdpi.com/1424-8220/22/1/194/pdf), [code](https://github.com/jkk-research/urban_road_filter)]
 
 
 ## Pointcloud Density \& Compression
@@ -41,7 +42,7 @@ A list of references on lidar point cloud processing for autonomous driving
 * Deep Compression for Dense Point Cloud Maps [[link](https://ieeexplore.ieee.org/document/9354895)]
 * Improved Deep Point Cloud Geometry Compression [[pdf](https://hal.archives-ouvertes.fr/hal-02910180/document), [git](https://github.com/mauriceqch/pcc_geo_cnn_v2)]
 * Real-Time Spatio-Temporal LiDAR Point Cloud Compression [[pdf](http://ras.papercept.net/images/temp/IROS/files/1091.pdf)]
-*  
+
 ## Registration and Localization
 * A Review of Point Cloud Registration Algorithms for Mobile Robotics 2015 [[pdf](https://hal.archives-ouvertes.fr/hal-01178661/document)]
 * LOAM: Lidar Odometry and Mapping in Real-time RSS 2014 [[pdf](https://ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf), [video](https://www.youtube.com/watch?v=8ezyhTAEyHs)]
